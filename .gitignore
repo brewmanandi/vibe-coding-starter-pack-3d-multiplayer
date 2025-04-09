@@ -15,11 +15,6 @@ Desktop.ini
 *~
 
 # Environment and configuration
-.env
-.env.local
-.env.development
-.env.test
-.env.production
 
 # SpacetimeDB
 .spacetime/
@@ -37,3 +32,4 @@ target/
 
 # Distribution
 dist/ 
+config.bat
